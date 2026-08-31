@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mw4builds.com/sitemap.xml
